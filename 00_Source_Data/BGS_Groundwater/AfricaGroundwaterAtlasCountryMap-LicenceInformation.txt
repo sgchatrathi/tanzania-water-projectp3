@@ -1,0 +1,39 @@
+These maps are called Africa Groundwater Atlas country hydrogeology maps (Version 1.0, 2019). 
+
+They are digital maps in shapefile format, produced by the British Geological Survey as part of the UPGro Africa Groundwater Atlas project, 
+in collaboration with hydrogeologists from across Africa. 
+
+The Africa Groundwater Atlas is available at : https://www.bgs.ac.uk/africagroundwateratlas/index.cfm
+
+More information on the Africa Groundwater Atlas country hydrogeology maps is available in this report:  
+Ó Dochartaigh, B. 2019. User Guide: Africa Groundwater Atlas Country Hydrogeology Maps, Version 1.0. 
+This report is provided as a pdf download with each of the maps. 
+It can also be downloaded from the web here: http://nora.nerc.ac.uk/id/eprint/523272/ 
+
+
+The Africa Groundwater Atlas country hydrogeology maps are released under a Creative Commons ‘Attribution/Share Alike’ (CC BY SA) licence. 
+
+A summary of the terms of this licence is available at : https://creativecommons.org/licenses/by-sa/4.0/
+
+The full legal text of this licence is available at : https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+
+Under this licence, you are free to : 
+
+Share — copy and redistribute the material in any medium or format
+
+Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+
+The licensor (the British Geological Survey) cannot revoke these freedoms as long as you follow the license terms.
+
+
+Under the following terms: 
+
+Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. 
+You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+There must be no additional restrictions if you share any works based on these maps. 
+You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
