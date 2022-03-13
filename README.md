@@ -16,13 +16,13 @@ Tanzania has struggled with finding a solution to their water crisis for years. 
 
 
 # Modeling
-After using our dummy classifier model, we were able to implement a decision tree where we could find the features with the highest level of importance. From our decision tree of political characteristics, payment, permit, region and source had the highest feature importance in our model. Region, specifically, helped us see which areas had high concentrations of probability of finding a functioning well vs. finding a broken well or a well that is functional and needs repair. While our simple Logisitc Regression with the political characteristics of importance gave us a precision level of 57% we knew we needed to make iterations.
+After using our dummy classifier model, we were able to implement a decision tree where we could find the features with the highest level of importance. From our decision tree of political characteristics, payment, permit, region and source had the highest feature importance in our model. Region, specifically, helped us see which areas had high concentrations of probability of finding a functioning well vs. finding a broken well or a well that is functional and needs repair. While our simple Logisitc Regression with the political characteristics of importance gave us a precision level of 57%, so we knew we needed to make iterations.
 
 
 <img width="620" alt="Screen Shot 2022-03-13 at 2 47 20 PM" src="https://user-images.githubusercontent.com/97462844/158074563-16ed9caf-26f5-4440-8a14-197a43c94cd6.png">
 
 
-We then implemented a KNN model. 
+We then implemented a KNN model. We wanted to implement a form of lazy learning, where predictions are deferred until classifcation. Since we have domain knowledge associated with our target, we believe this would be a beneficial form of black box modeling. We also found that this allowed us to implement hyperparamter tuning, allowing us to make iterations to our paramters without changing the base features we wanted to study. This was our model with highest level of precision at 61%.
 
 ![image (2)](https://user-images.githubusercontent.com/97462844/158074528-fc1c7131-4516-43af-aeb7-659224f46a40.png)
 # Evaluation
